@@ -17,13 +17,13 @@ Python 3.x
 requests library for API calls
 Internet access for API interaction
 
-#Usage
+# Usage
 
 Install required Python packages.
 Add your receipt images in the designated folder.
 Run the script to process images and extract data.
 
-#Limitations
+# Limitations
 
 Performance depends on the OCR API's accuracy.
 May not fully recognize non-Latin scripts.
